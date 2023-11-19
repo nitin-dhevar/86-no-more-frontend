@@ -71,33 +71,33 @@
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?  | Y | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/README.md#funding |
 |Do you make timely announcements of the deprecation of components, APIs, etc.?  | Y |  |
 |  |  |  |
-|Video  | 3 |  https://github.com/nitin-dhevar/spendwise/blob/main/README.md|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)  | 3 |https://github.com/nitin-dhevar/spendwise/graphs/contributors  |
-|Number of commits  | 3 | https://github.com/nitin-dhevar/spendwise/graphs/contributors |
-|Number of commits: by different people  | 3 |  |
-|Issues reports: there are many  | 3 |  |
-|Issues are being closed  | 3 |  |
-|DOI badge: exists  | 3 | https://github.com/nitin-dhevar/spendwise/blob/main/README.md |
-|Docs: doco generated, format not ugly  | 3 | https://github.com/nitin-dhevar/spendwise/blob/main/README.md |
-|Docs: what: point descriptions of each class/function (in isolation)  | 3 | https://github.com/nitin-dhevar/spendwise/blob/main/README.md |
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z  | 3 | https://github.com/nitin-dhevar/spendwise/blob/main/README.md |
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing  | 3 |https://github.com/nitin-dhevar/spendwise/blob/main/README.md  |
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.  |3  | https://github.com/nitin-dhevar/spendwise/blob/main/README.md |
-|Use of version control tools  |3  |  |
-|Use of style checkers  | 3 |  |
-|Use of code formatters.  | 3 |  |
-|Use of syntax checkers.  | 3 |  |
-|Use of code coverage  | 3 |  |
+|Video  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend#demo-video |
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/graphs/contributors |
+|Number of commits  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/graphs/contributors |
+|Number of commits: by different people  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/graphs/contributors |
+|Issues reports: there are many  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/issues |
+|Issues are being closed  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/issues |
+|DOI badge: exists  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend#86-no-more-where-innovation-meets-indulgence |
+|Docs: doco generated, format not ugly  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/tree/main/proj3 |
+|Docs: what: point descriptions of each class/function (in isolation)  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/tree/main/proj3 |
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/README.md#information_desk_person-sample-demos |
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/README.md#information_desk_person-sample-demos |
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.  |3  | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/README.md#-about |
+|Use of version control tools  |3  | Git is used |
+|Use of style checkers  | 3 | PEP 8 is used |
+|Use of code formatters.  | 3 | PEP 8 is used |
+|Use of syntax checkers.  | 3 | PEP 8 is used |
+|Use of code coverage  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/tree/main/coverage |
 |Other automated analysis tools  |3  |  |
-|Test cases exist  | 3 |https://github.com/nitin-dhevar/spendwise/tree/main/test  |
-|Test cases are routinely executed  | 3 | https://github.com/nitin-dhevar/spendwise/tree/main/test |
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up  | 3 | https://github.com/nitin-dhevar/spendwise/blob/main/CONTRIBUTING.md |
-|Issues are discussed before they are closed  | 3 |  |
+|Test cases exist  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/README.md#to-run-test-cases-enter-below-commands |
+|Test cases are routinely executed  | 3 |  |
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/CONTRIBUTING.md |
+|Issues are discussed before they are closed  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/issues |
 |Chat channel: exists  | 3 |  |
 |Test cases: a large proportion of the issues related to handling failing cases.  | 3 |  |
-|Evidence that the whole team is using the same tools: everyone can get to all tools and files  |3  |  |
-|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)  | 3 |  |
-|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)  | 3 |  |
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files  |3  | Git and Github are used. |
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)  | 3 | Git and Github are used.  |
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)  | 3 | Git and Github are used. |
 |Evidence that the members of the team are working across multiple places in the code base  | 3 |  |
-|Short release cycles  | 3 | https://github.com/nitin-dhevar/spendwise/releases |
+|Short release cycles  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/releases |
 |Total |87 |    |
