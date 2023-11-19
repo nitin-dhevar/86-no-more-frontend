@@ -8,7 +8,6 @@
 </p>
 <hr>
 
-
 [![DOI Frontend](https://zenodo.org/badge/DOI/10.5281/zenodo.10023397.svg)](https://zenodo.org/doi/10.5281/zenodo.10023397)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Build Status](https://app.travis-ci.com/prathyu99/CSC510_Group25_Project1.svg?branch=main)](https://app.travis-ci.com/prathyu99/CSC510_Group25_Project1)
@@ -41,12 +40,12 @@ https://youtu.be/cAGcWJTWelc
 
 ## 💎 About:
 "86-No-More is a culinary revolution that bids goodbye to the disappointment of unavailable menu items with the cutting-edge inventory tracker. It seamlessly anticipates ingredient shortages, empowering managers with insightful analytics, minimizing waste, and maximizing profits. With 86-No-More embrace innovation, eliminate shortages, and savor the taste of a more lucrative and long-lasting restaurant success!" This app allows you to:
-•	Register and Log in to 86-no-more
-•	Add and Delete items to the menu
-•	Add, Update, and Delete items to the inventory
-•	Send notifications when there is a ingredients shortage or expiration
-•	Predicts the stock based on the previous usage
-•	Visualize your inventory in the form of graphs
+- Register and Log in to 86-no-more
+- Add and Delete items to the menu
+- Add, Update, and Delete items to the inventory
+- Send notifications when there is a ingredients shortage or expiration
+- Predicts the stock based on the previous usage
+- Visualize your inventory in the form of graphs
 
 
 <!--## 📹 Watch this video to know more about our product:
@@ -70,15 +69,13 @@ https://user-images.githubusercontent.com/42051115/135004434-50d95b77-87a3-4c18-
  - Download and install [NodeJs](https://nodejs.org/en/download/) - Version: 7.0.2
  - Download the Allow CORS: Access-Control-Allow-Origin extension for Google Chrome - Version: 2.8.5
  - In the command prompt clone the frontend project using following commands:
-#### `git clone https://github.com/nitin-dhevar/86-no-more-frontend`
-#### `git clone https://github.com/nitin-dhevar/86-no-more-backend`
+## `git clone https://github.com/nitin-dhevar/86-no-more-frontend`
+## `git clone https://github.com/nitin-dhevar/86-no-more-backend`
 - Then enter 'npm-install' 
  to install all the required dependencies in both the terminals. The dependencies have been mentioned in the 'package.json' file. If you want to check newer versions of dependencies use
-#### `npm-check-updates`
-
+## `npm-check-updates`
  - Then enter below command for both the terminals to start the application:
-#### `npm start`
-
+## `npm start`
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## To run test cases enter below commands
@@ -125,12 +122,12 @@ npm test -- --coverage
 ## Funding:
 The project is not currently funded
 
-## 🌠 # :construction: Road Map
+# :construction: Road Map
 
 Our ideas for new features that can be implemented to make this project better can be seen in our RoadMap project board.
 [Road Map](https://github.com/nitin-dhevar/86-no-more-frontend/projects?query=is%3Aopen)
 
-heart: Acknowledgements
+:heart: Acknowledgements
 ---
 We would like to thank Dr. Timothy Menzies for helping us understand the process of building a good Software Engineering project. We would also like to thank the teaching assistants Andre Lustosa, San Gilson, Xueqi (Sherry) Yang, Yasitha Rajapaksha, Rahul Yedida for their support throughout the project.
 
