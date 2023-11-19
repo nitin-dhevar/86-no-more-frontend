@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 Shantanu Pandey, Leanne Serrao, Urmi Pathak, Varun Garg, Sahil Nande 
+Copyright (c) 2023 Nitin Dhevar, Venkata Sai Praveen Gunda, Manideepika Reddy Myaka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
