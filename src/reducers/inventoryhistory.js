@@ -1,20 +1,19 @@
-
-import {UPDATE_INVENTORY_HISTORY, ADD_INVENTORY_HISTORY} from '../actions/actionTypes';
+import {
+    UPDATE_INVENTORY_HISTORY,
+    ADD_INVENTORY_HISTORY,
+} from '../actions/actionTypes'
 
 export default function inventoryhistory(state = [], action) {
-  // { posts : [] }
+    // { posts : [] }
 
-  switch (action.type) {
+    switch (action.type) {
+        case UPDATE_INVENTORY_HISTORY:
+            return action.inventoryhistory
 
-    case UPDATE_INVENTORY_HISTORY:
-      return action.inventoryhistory;
-      
-   case ADD_INVENTORY_HISTORY:
-      return [action.inventoryhistory, ...state];
+        case ADD_INVENTORY_HISTORY:
+            return [action.inventoryhistory, ...state]
 
-    default:
-      return state;
-  }
+        default:
+            return state
+    }
 }
-
-

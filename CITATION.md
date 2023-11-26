@@ -7,14 +7,14 @@ Link to backend repository: https://github.com/shantanu109/86_Backend
 
 ### Authors
 
- - Shantanu Pandey(spandey4@ncsu.edu)
+-   Shantanu Pandey(spandey4@ncsu.edu)
 
- - Sahil Rajesh Nande(snande@ncsu.edu)
+-   Sahil Rajesh Nande(snande@ncsu.edu)
 
- - Leanne Serrao(lserrao@ncsu.edu)
+-   Leanne Serrao(lserrao@ncsu.edu)
 
- - Varun Garg(vgarg4@ncsu.edu)
+-   Varun Garg(vgarg4@ncsu.edu)
 
- - Urmi Pathak(upathak@ncsu.edu)
+-   Urmi Pathak(upathak@ncsu.edu)
 
 ### License: MIT
