@@ -2,19 +2,14 @@
 
 <a href="https://doi.org/10.5281/zenodo.5759097">Zenodo DOI Link</a>
 
-Link to frontend repository: https://github.com/shantanu109/CSC510_Group25_Project1 \
-Link to backend repository: https://github.com/shantanu109/86_Backend
+Link to frontend repository: https://github.com/nitin-dhevar/86-no-more-frontend
+Link to backend repository: https://github.com/nitin-dhevar/86-no-more-backend
 
 ### Authors
 
--   Shantanu Pandey(spandey4@ncsu.edu)
+ - Nitin Dhevar (nddhevar@ncsu.edu)
+ - Venkata Sai Praveen Gunda (vgunda@ncsu.edu)
 
--   Sahil Rajesh Nande(snande@ncsu.edu)
-
--   Leanne Serrao(lserrao@ncsu.edu)
-
--   Varun Garg(vgarg4@ncsu.edu)
-
--   Urmi Pathak(upathak@ncsu.edu)
+ - Manideepika Reddy Myaka (mmyaka@ncsu.edu)
 
 ### License: MIT
