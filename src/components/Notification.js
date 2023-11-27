@@ -92,10 +92,14 @@ class Notification extends Component {
         })
     }
     sendEmail(name) {
-        emailjs.sendForm('service_03wshsv', 'template_63zypn7', name, 'K5DPnwPqbFw_MaGnn')
+        var templateParams = {
+            name: name
+          };
+        emailjs.send('service_03wshsv', 'template_63zypn7',templateParams , 'K5DPnwPqbFw_MaGnn')
       .then((result) => {
         console.log(name)
-      }, (error) => {
+      } )
+      .catch((error) => {
           console.log(error.text);
       });       
     }
