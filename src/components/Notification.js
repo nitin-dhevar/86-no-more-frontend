@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
+import emailjs from 'emailjs-com';
 
 import { searchUsers } from '../actions/search'
 import { editItem } from '../actions/auth'
@@ -90,8 +91,13 @@ class Notification extends Component {
             itemname: '',
         })
     }
-    saySomething(something) {
-        console.log(something)
+    sendEmail(name) {
+        emailjs.sendForm('service_03wshsv', 'template_63zypn7', name, 'K5DPnwPqbFw_MaGnn')
+      .then((result) => {
+        console.log(name)
+      }, (error) => {
+          console.log(error.text);
+      });       
     }
 
     componentDidMount() {
@@ -127,7 +133,7 @@ class Notification extends Component {
                                     Number(parts[1]) - Number(parts2[0]) < 0 ||
                                     Number(parts[2]) > Number(parts2[1])
                                 ) {
-                                    this.saySomething('component did mount')
+                                    this.sendEmail(job.itemname)
                                     return (
                                         <Card key={job._id}>
                                             <CardContent>
