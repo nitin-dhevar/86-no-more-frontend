@@ -23,7 +23,7 @@ class Goal extends Component {
             datebought: '',
             dateexpired: '',
             editMode: false,
-            metric: 'Tons',
+            metric: 'Items',
         }
     }
 
@@ -151,7 +151,7 @@ class Goal extends Component {
                         <select
                             id="metric"
                             name="selected"
-                            defaultValue={'Tons'}
+                            defaultValue={'Items'}
                             style={{
                                 border: '1px solid rgba(0, 0, 0, 0.12)',
                                 height: '40px',
@@ -164,6 +164,7 @@ class Goal extends Component {
                                 this.handleInputChange('metric', e.target.value)
                             }
                         >
+                            <option value="Items">Items</option>
                             <option value="Tons">Tons</option>
                             <option value="Gallons">Gallons</option>
                             <option value="KiloGrams">KiloGrams</option>
@@ -173,12 +174,12 @@ class Goal extends Component {
                     <div className="field">
                         <input
                             id="cost"
-                            placeholder="Cost per item"
+                            placeholder="Cost per Unit"
                             type="text"
                             required
                             onChange={(e) =>
                                 this.handleInputChange(
-                                    'costperitem',
+                                    'costperunit',
                                     e.target.value
                                 )
                             }
