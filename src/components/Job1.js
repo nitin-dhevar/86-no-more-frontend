@@ -120,6 +120,19 @@ class Job1 extends Component {
                                 {menu.quantity}
                             </span>
                         </div>
+                        
+                        <div>
+                            <h4 style={{ display: 'inline-block', marginTop: '-12px' }}>
+                                Product Types: 
+                            </h4>
+                            <div style={{ marginLeft: '10px', display: 'flex', flexWrap: 'wrap' }}>
+                                {menu.productTypes && menu.productTypes.map((type, index) => (
+                                    <span key={index} style={{ marginRight: '8px', marginBottom: '8px', padding: '6px', border: '1px solid #ddd', borderRadius: '4px', backgroundColor: '#f9f9f9', display: 'inline-block' }}>
+                                        {type}
+                                    </span>
+                                ))}
+                            </div>
+                        </div>
                         <div>
                             Total Price: {this.state.Total * menu.costmenu}
                         </div>

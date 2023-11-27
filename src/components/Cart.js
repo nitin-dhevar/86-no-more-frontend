@@ -42,9 +42,10 @@ class Cart extends Component {
 
     render() {
         const { menu } = this.props
+        {console.log('eeeeeee', menu)}
         return (
             <div style={{ display: 'flex' }}>
-                <h1>Im in cart</h1>
+                <h1>Menu and Cart</h1>
                 <div style={{ marginLeft: '57px' }}>
                     {menu?.map((menu) => (
                         <Job1
