@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Cart component 1`] = `ReactWrapper {}`;
+
+exports[`renders Goal component 1`] = `ReactWrapper {}`;
+
+exports[`renders History component 1`] = `ReactWrapper {}`;
+
+exports[`renders Home component 1`] = `ReactWrapper {}`;
+
+exports[`renders Menu component 1`] = `ReactWrapper {}`;
+
+exports[`renders Notification component 1`] = `ReactWrapper {}`;
+
+exports[`renders Page404 component 1`] = `ReactWrapper {}`;
+
+exports[`renders Settings component 1`] = `ReactWrapper {}`;
+
+exports[`renders Signup component 1`] = `ReactWrapper {}`;
+
+exports[`renders Update component 1`] = `ReactWrapper {}`;
