@@ -42,6 +42,7 @@ class Cart extends Component {
 
     render() {
         const { menu } = this.props
+        {console.log('eeeeeee', menu)}
         return (
             <div style={{ display: 'flex' }}>
                 <h1>Menu and Cart</h1>

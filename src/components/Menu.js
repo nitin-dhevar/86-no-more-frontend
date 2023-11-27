@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-
+import Select from 'react-select'; 
 import { searchUsers } from '../actions/search'
 import { clearAuthState, editItem } from '../actions/auth'
 import { clearsearchstate } from '../actions/search'
@@ -20,7 +20,7 @@ class Menu extends Component {
             menuname: '',
             quantity: '0',
             costmenu: '',
-
+            selectedProductTypes: [],
             editMode: false,
         }
     }
@@ -60,8 +60,15 @@ class Menu extends Component {
         })
     }
 
+    handleProductTypeChange = (selectedOptions) => {
+        this.setState({
+            selectedProductTypes: selectedOptions.map(option => option.value),
+        });
+        console.log(this.selectedProductTypes);
+    }
+
     handleSave = () => {
-        const { restname, restid, menuname, quantity, costmenu } = this.state
+        const { restname, restid, menuname, quantity, costmenu, selectedProductTypes } = this.state
 
         const { user } = this.props.auth
 
@@ -71,11 +78,10 @@ class Menu extends Component {
         })
 
         this.props.dispatch(
-            createMenu(user.restname, user._id, menuname, quantity, costmenu)
+            createMenu(user.restname, user._id, menuname, quantity, costmenu, selectedProductTypes)
         )
         alert(menuname + ' added!')
     }
-
     componentDidMount() {
         this.props.dispatch(fetchJobs())
     }
@@ -141,6 +147,26 @@ class Menu extends Component {
                             }
                         />
                     </div>
+
+                    <div className="field">
+                    <label>Select Product Types:</label>
+                    <Select
+                        isMulti
+                        options={[
+                            { value: 'Beef', label: 'Beef' },
+                            { value: 'Pork', label: 'Pork' },
+                            { value: 'Chicken', label: 'Chicken' },
+                            { value: 'Milk', label: 'Milk' },
+                            { value: 'Egg', label: 'Egg' },
+                            { value: 'Vegan', label: 'Vegan' },
+                            { value: 'Vegetarian', label: 'Vegetarian' },
+                            { value: 'Glutten-Free', label: 'Glutten-Free' },
+                            { value: 'Fish', label: 'Fish' },
+                            { value: 'Others', label: 'Others'}
+                        ]}
+                        onChange={this.handleProductTypeChange}
+                    />
+                </div>
 
                     <div className="field">
                         <button

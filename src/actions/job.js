@@ -80,7 +80,7 @@ export function deleteInventoryItem(id) {
     }
 }
 
-export function createMenu(restname, restid, menuname, quantity, costmenu) {
+export function createMenu(restname, restid, menuname, quantity, costmenu, selectedProductTypes) {
     return (dispatch) => {
         const url = APIURLS.createMenu()
         fetch(url, {
@@ -94,6 +94,7 @@ export function createMenu(restname, restid, menuname, quantity, costmenu) {
                 menuname,
                 quantity,
                 costmenu,
+                selectedProductTypes
             }),
         })
             .then((response) => response.json())
