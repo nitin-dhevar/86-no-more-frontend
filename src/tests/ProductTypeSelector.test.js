@@ -18,7 +18,6 @@ describe('ProductTypeSelector', () => {
     // Ensure that checkboxes are rendered for each product type
     expect(wrapper.find('input[value="Beef"]').exists()).toBe(true);
     expect(wrapper.find('input[value="Pork"]').exists()).toBe(true);
-    
   });
 });
 

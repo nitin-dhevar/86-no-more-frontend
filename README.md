@@ -37,7 +37,7 @@
 
 ## Demo Video
 
-
+https://youtu.be/WvsZH0xknUg
 
 ## 💎 About:
 "86-No-More is a culinary revolution that bids goodbye to the disappointment of unavailable menu items with the cutting-edge inventory tracker. It seamlessly anticipates ingredient shortages, empowering managers with insightful analytics, minimizing waste, and maximizing profits. With 86-No-More embrace innovation, eliminate shortages, and savor the taste of a more lucrative and long-lasting restaurant success!" This app allows you to:
@@ -114,18 +114,18 @@ npm test -- --coverage
 
 ### Our Home Page
 Display user-specific information about authentication, Login, and search criteria.
-<p align="center"><img width="700" src="./public/images/home.gif"></p>
+<p align="center"><img width="700" src="./public/images/home.jpg"></p>
 
 ### Order page
 Displays the menu item and the user can able to select the quantity and pay accordingly
-<p align="center"><img width="700" src="./public/images/orders.gif"></p>
+<p align="center"><img width="700" src="./public/images/product.jpg"></p>
 
 ### Email alert
 When the inventory is running low or there are expired items then the user will get an email alert
-<p align="center"><img width="700" src="./public/images/email.gif"></p>
+<!--<p align="center"><img width="700" src="./public/images/email.gif"></p>-->
 
 ### Feedback
-To improve the standards, we have implemented User Feedback page where the customers give rating to the products in the menu
+To improve the standards, we have implemented User Feedback page where the customers give rating to the products
 <p align="center"><img width="700" src="./public/images/feedback.gif"></p>
 
 ### Metric Selection
@@ -134,7 +134,7 @@ To make it convenient to understand we have implemented a metric selector
 
 ### Product selection
 To make it easier for selection we have implemented a list for Ingredients
-<p align="center"><img width="700" src="./public/images/product.gif"></p>
+<p align="center"><img width="700" src="./public/images/product.jpg"></p>
 
 ### Awareness
 Implemented awareness tab to educate about food wastage

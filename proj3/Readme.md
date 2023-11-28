@@ -71,7 +71,7 @@
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?  | Y | https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/README.md#funding |
 |Do you make timely announcements of the deprecation of components, APIs, etc.?  | Y |  |
 |  |  |  |
-|Video  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend#demo-video |
+|Video  | 3 | https://youtu.be/WvsZH0xknUg|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/graphs/contributors |
 |Number of commits  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/graphs/contributors |
 |Number of commits: by different people  | 3 | https://github.com/nitin-dhevar/86-no-more-frontend/graphs/contributors |
