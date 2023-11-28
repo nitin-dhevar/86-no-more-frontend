@@ -10,18 +10,20 @@
 
 [![DOI Frontend](https://zenodo.org/badge/DOI/10.5281/zenodo.10023397.svg)](https://zenodo.org/doi/10.5281/zenodo.10023397)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Build Status](https://app.travis-ci.com/nitin-dhevar/86-no-more-frontend.svg?branch=main)](https://app.travis-ci.com/nitin-dhevar/86-no-more-frontend)
+<!--[![Build Status](https://app.travis-ci.com/nitin-dhevar/86-no-more-frontend.svg?branch=main)](https://app.travis-ci.com/nitin-dhevar/86-no-more-frontend)-->
+![GitHub contributors](https://img.shields.io/github/contributors/nitin-dhevar/86-no-more-frontend)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Issues](https://img.shields.io/github/issues/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![Issues Closed](https://img.shields.io/github/issues-closed/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 ![last commit](https://img.shields.io/github/last-commit/nitin-dhevar/86-no-more-frontend)
 <!--![total lines](https://img.shields.io/tokei/lines/github/nitin-dhevar/86-no-more-frontend)-->
-![GitHub branch checks state](https://img.shields.io/github/checks-status/nitin-dhevar/86-no-more-frontend/main)[![Repo-size](https://img.shields.io/github/repo-size/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+<!--[GitHub branch checks state](https://img.shields.io/github/checks-status/nitin-dhevar/86-no-more-frontend/main)-->
+[![Repo-size](https://img.shields.io/github/repo-size/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![file_count](https://img.shields.io/github/directory-file-count/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![language_count](https://img.shields.io/github/languages/count/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 ![GitHub all releases](https://img.shields.io/github/downloads/nitin-dhevar/86-no-more-frontend/total)
 [![Top Language](https://img.shields.io/github/languages/top/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
-[![Version](https://img.shields.io/github/package-json/v/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+[![Version](https://img.shields.io/github/package-json/v/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/releases)
 <!--[![Release](https://img.shields.io/github/v/release/nitin-dhevar/wolfjobs)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 ![Build Status](https://github.com/nitin-dhevar/86-no-more-frontend/workflows/npm-build/badge.svg)
 [![codecov](https://raw.githubusercontent.com/nitin-dhevar/86-no-more-frontend/711b55a047c10fab6bdf3da57b436a0163f475d6/coverage/badge-lines.svg)](https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/coverage/)
@@ -50,6 +52,7 @@
 - Predicts the stock based on the previous usage
 - Visualize your inventory in the form of graphs
 - User feedback page implemented, where in user can give star rating to the products in menu
+- To provide awareness about food wastage, we have implemented awreness tab
 - For code quality
 Added prettier in codebase, for automatic code formatting
 Added test cases to increase code coverage.
@@ -75,6 +78,7 @@ https://user-images.githubusercontent.com/42051115/135004434-50d95b77-87a3-4c18-
 - Added metric data in inventory
 - Added email alerts
 - User feedback page implemented, where in user can give star rating to the products in menu
+- Implemented awareness tab to educate about food wastage
 - For code quality
 Added prettier in codebase, for automatic code formatting
 Added test cases to increase code coverage.
@@ -128,10 +132,13 @@ To improve the standards, we have implemented User Feedback page where the custo
 To make it convenient to understand we have implemented a metric selector
 <p align="center"><img width="700" src="./public/images/metric.gif"></p>
 
-### Ingredients selection
+### Product selection
 To make it easier for selection we have implemented a list for Ingredients
-<p align="center"><img width="700" src="./public/images/ingredients.gif"></p>
+<p align="center"><img width="700" src="./public/images/product.gif"></p>
 
+### Awareness
+Implemented awareness tab to educate about food wastage
+<p align="center"><img width="700" src="./public/images/awareness.gif"></p>
 
 ## Funding:
 
