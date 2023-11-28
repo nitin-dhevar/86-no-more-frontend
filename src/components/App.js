@@ -31,6 +31,8 @@ import { authenticateUser } from '../actions/auth'
 import { getAuthTokenFromLocalStorage } from '../helpers/utils'
 import { fetchJobs, fetchMenus } from '../actions/job'
 import Cart from './Cart'
+import Ratings from './Ratings'
+import Awareness from './Awareness'
 
 const PrivateRoute = (privateRouteProps) => {
     const { isLoggedIn, path, component: Component } = privateRouteProps
@@ -117,6 +119,16 @@ class App extends React.Component {
                         <PrivateRoute
                             path="/cart"
                             component={Cart}
+                            isLoggedIn={auth.isLoggedIn}
+                        />
+                        <PrivateRoute
+                            path="/ratings"
+                            component={Ratings}
+                            isLoggedIn={auth.isLoggedIn}
+                        />
+                        <PrivateRoute
+                            path="/awareness"
+                            component={Awareness}
                             isLoggedIn={auth.isLoggedIn}
                         />
                         <PrivateRoute

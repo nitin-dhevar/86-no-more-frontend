@@ -45,7 +45,10 @@ class Cart extends Component {
         {console.log('eeeeeee', menu)}
         return (
             <div style={{ display: 'flex' }}>
+<<<<<<< HEAD
                 <h1>Menu and Cart</h1>
+=======
+>>>>>>> aed5e5424f29be0b5eede25d666cdcb8b6922346
                 <div style={{ marginLeft: '57px' }}>
                     {menu?.map((menu) => (
                         <Job1

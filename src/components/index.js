@@ -13,7 +13,8 @@ import Notification from './Notification'
 import Menu from './Menu'
 import Job1 from './Job1'
 import Cart from './Cart'
-
+import Ratings from './Ratings'
+import Awareness from './Awareness'
 export {
     Home,
     Page404,
@@ -29,4 +30,6 @@ export {
     Menu,
     Cart,
     Job1,
+    Ratings,
+    Awareness,
 }

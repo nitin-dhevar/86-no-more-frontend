@@ -4,10 +4,10 @@ import React from 'react'
 import { logoutUser } from '../actions/auth'
 
 import { searchUsers } from '../actions/search'
-
+import CameraIndoorIcon from '@mui/icons-material/CameraIndoor';
 import ListAltIcon from '@material-ui/icons/ListAlt'
 import ShoppingCartIcon from '@material-ui/icons/ShoppingCart'
-
+import StarIcon from '@material-ui/icons/Star';
 import RestaurantMenuIcon from '@material-ui/icons/RestaurantMenu'
 import InventoryIcon from '@material-ui/icons/InsertDriveFile'
 import TimelineIcon from '@material-ui/icons/Timeline'
@@ -48,40 +48,58 @@ class Navbar extends React.Component {
                         className="header__middle"
                         style={{ marginLeft: '20px' }}
                     >
-                        <div className="header__option ">
+                        <div className="header__option " style={{display:"block"}}>
                             <Link to="/menu">
                                 <RestaurantMenuIcon fontSize="large" />
                             </Link>
+                            <p style={{marginTop:"0px"}}>Menu</p>
                         </div>
 
-                        <div className="header__option ">
+                        <div className="header__option " style={{display:"block"}}>
                             <Link to="/cart">
                                 <ShoppingCartIcon fontSize="large" />
                             </Link>
+                            <p style={{marginTop:"0px"}}>Cart</p>
                         </div>
 
-                        <div className="header__option ">
+                        <div className="header__option " style={{display:"block"}}>
                             <Link to="/goal">
-                                <ListAltIcon fontSize="large" />
+                                <ListAltIcon fontSize="large" style={{ marginLeft:"13px"}}/>
                             </Link>
+                            <p style={{marginTop:"0px"}}>Inventory</p>
                         </div>
 
-                        <div className="header__option ">
+                        <div className="header__option " style={{display:"block"}}>
                             <Link to="/update">
-                                <InventoryIcon fontSize="large" />
+                                <InventoryIcon fontSize="large" style={{ marginLeft:"5px"}}/>
                             </Link>
+                            <p style={{marginTop:"0px" }}>Predict</p>
                         </div>
 
-                        <div className="header__option ">
+                        <div className="header__option " style={{display:"block"}}>
                             <Link to="/history">
                                 <TimelineIcon fontSize="large" />
                             </Link>
+                            <p style={{marginTop:"0px"}}>Graph</p>
                         </div>
 
-                        <div className="header__option ">
+                        <div className="header__option " style={{display:"block"}}>
                             <Link to="/notification">
-                                <NotificationsActiveIcon fontSize="large" />
+                                <NotificationsActiveIcon fontSize="large" style={{ marginLeft:"20px"}}/>
                             </Link>
+                            <p style={{marginTop:"0px"}}>Notification</p>
+                        </div>
+                        <div className="header__option " style={{display:"block"}}>
+                            <Link to="/ratings">
+                                <StarIcon fontSize="large" style={{ marginLeft:"17px"}}/>
+                            </Link>
+                            <p style={{marginTop:"0px"}}>Feedback</p>
+                        </div>
+                        <div className="header__option " style={{display:"block"}}>
+                            <Link to="/awareness">
+                                <CameraIndoorIcon fontSize="large" style={{ marginLeft:"17px"}}/>
+                            </Link>
+                            <p style={{marginTop:"0px"}}>Awareness</p>
                         </div>
                     </div>
                 )}
