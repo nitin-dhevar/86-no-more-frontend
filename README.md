@@ -4,7 +4,7 @@
 <hr>
 <p align="center">
 <a><img width=500 
-  src="/public/images/banner.mp4" alt="Elevate Your Culinary Experience: 86-No-More – Where Innovation Meets Indulgence!"></a>
+  src="/public/images/banner.gif" alt="Elevate Your Culinary Experience: 86-No-More – Where Innovation Meets Indulgence!"></a>
 </p>
 <hr>
 
@@ -15,14 +15,14 @@
 [![Issues](https://img.shields.io/github/issues/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![Issues Closed](https://img.shields.io/github/issues-closed/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 ![last commit](https://img.shields.io/github/last-commit/nitin-dhevar/86-no-more-frontend)
-![total lines](https://img.shields.io/tokei/lines/github/nitin-dhevar/86-no-more-frontend)
+<!--![total lines](https://img.shields.io/tokei/lines/github/nitin-dhevar/86-no-more-frontend)-->
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/nitin-dhevar/86-no-more-frontend/main)[![Repo-size](https://img.shields.io/github/repo-size/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![file_count](https://img.shields.io/github/directory-file-count/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![language_count](https://img.shields.io/github/languages/count/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 ![GitHub all releases](https://img.shields.io/github/downloads/nitin-dhevar/86-no-more-frontend/total)
 [![Top Language](https://img.shields.io/github/languages/top/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 [![Version](https://img.shields.io/github/package-json/v/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
-[![Release](https://img.shields.io/github/v/release/nitin-dhevar/wolfjobs)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+<!--[![Release](https://img.shields.io/github/v/release/nitin-dhevar/wolfjobs)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
 ![Build Status](https://github.com/nitin-dhevar/86-no-more-frontend/workflows/npm-build/badge.svg)
 [![codecov](https://raw.githubusercontent.com/nitin-dhevar/86-no-more-frontend/711b55a047c10fab6bdf3da57b436a0163f475d6/coverage/badge-lines.svg)](https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/coverage/)
 [![unit_tests](https://github.com/nitin-dhevar/86-no-more-frontend/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/nitin-dhevar/86-no-more-frontend/actions/workflows/QtyCalcTests.yml)
