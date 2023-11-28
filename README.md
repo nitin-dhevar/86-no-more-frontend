@@ -122,7 +122,7 @@ Displays the menu item and the user can able to select the quantity and pay acco
 
 ### Email alert
 When the inventory is running low or there are expired items then the user will get an email alert
-<!--<p align="center"><img width="700" src="./public/images/email.gif"></p>-->
+<p align="center"><img width="700" src="./public/images/email.jpg"></p>
 
 ### Feedback
 To improve the standards, we have implemented User Feedback page where the customers give rating to the products
