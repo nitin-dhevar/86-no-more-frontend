@@ -4,28 +4,28 @@
 <hr>
 <p align="center">
 <a><img width=500 
-  src="/docs/workflows/banner.jpg" alt="Elevate Your Culinary Experience: 86-No-More – Where Innovation Meets Indulgence!"></a>
+  src="/public/images/banner.mp4" alt="Elevate Your Culinary Experience: 86-No-More – Where Innovation Meets Indulgence!"></a>
 </p>
 <hr>
 
 [![DOI Frontend](https://zenodo.org/badge/DOI/10.5281/zenodo.10023397.svg)](https://zenodo.org/doi/10.5281/zenodo.10023397)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Build Status](https://app.travis-ci.com/prathyu99/CSC510_Group25_Project1.svg?branch=main)](https://app.travis-ci.com/prathyu99/CSC510_Group25_Project1)
+[![Build Status](https://app.travis-ci.com/nitin-dhevar/86-no-more-frontend.svg?branch=main)](https://app.travis-ci.com/nitin-dhevar/86-no-more-frontend)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
-[![Issues](https://img.shields.io/github/issues/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![Issues Closed](https://img.shields.io/github/issues-closed/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-![last commit](https://img.shields.io/github/last-commit/prathyu99/CSC510_Group25_Project1)
-![total lines](https://img.shields.io/tokei/lines/github/prathyu99/CSC510_Group25_Project1)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/prathyu99/CSC510_Group25_Project1/main)[![Repo-size](https://img.shields.io/github/repo-size/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![file_count](https://img.shields.io/github/directory-file-count/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![language_count](https://img.shields.io/github/languages/count/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-![GitHub all releases](https://img.shields.io/github/downloads/prathyu99/CSC510_Group25_Project1/total)
-[![Top Language](https://img.shields.io/github/languages/top/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![Version](https://img.shields.io/github/package-json/v/prathyu99/CSC510_Group25_Project1)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-[![Release](https://img.shields.io/github/v/release/prathyu99/wolfjobs)](https://GitHub.com/prathyu99/CSC510_Group25_Project1/)
-![Build Status](https://github.com/ashakhatri007/CSC510_Group25_Project1/workflows/npm-build/badge.svg)
-[![codecov](https://raw.githubusercontent.com/prathyu99/CSC510_Group25_Project1/711b55a047c10fab6bdf3da57b436a0163f475d6/coverage/badge-lines.svg)](https://github.com/prathyu99/CSC510_Group25_Project1/blob/main/coverage/)
-[![unit_tests](https://github.com/ashakhatri007/CSC510_Group25_Project1/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/CSC510-Group-25/CSC510_Group25_Project1/actions/workflows/QtyCalcTests.yml)
+[![Issues](https://img.shields.io/github/issues/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+[![Issues Closed](https://img.shields.io/github/issues-closed/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+![last commit](https://img.shields.io/github/last-commit/nitin-dhevar/86-no-more-frontend)
+![total lines](https://img.shields.io/tokei/lines/github/nitin-dhevar/86-no-more-frontend)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/nitin-dhevar/86-no-more-frontend/main)[![Repo-size](https://img.shields.io/github/repo-size/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+[![file_count](https://img.shields.io/github/directory-file-count/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+[![language_count](https://img.shields.io/github/languages/count/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+![GitHub all releases](https://img.shields.io/github/downloads/nitin-dhevar/86-no-more-frontend/total)
+[![Top Language](https://img.shields.io/github/languages/top/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+[![Version](https://img.shields.io/github/package-json/v/nitin-dhevar/86-no-more-frontend)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+[![Release](https://img.shields.io/github/v/release/nitin-dhevar/wolfjobs)](https://GitHub.com/nitin-dhevar/86-no-more-frontend/)
+![Build Status](https://github.com/nitin-dhevar/86-no-more-frontend/workflows/npm-build/badge.svg)
+[![codecov](https://raw.githubusercontent.com/nitin-dhevar/86-no-more-frontend/711b55a047c10fab6bdf3da57b436a0163f475d6/coverage/badge-lines.svg)](https://github.com/nitin-dhevar/86-no-more-frontend/blob/main/coverage/)
+[![unit_tests](https://github.com/nitin-dhevar/86-no-more-frontend/actions/workflows/QtyCalcTests.yml/badge.svg)](https://github.com/nitin-dhevar/86-no-more-frontend/actions/workflows/QtyCalcTests.yml)
 
 <!--[Logo](https://user-images.githubusercontent.com/89487138/144724853-bd0d6f22-1a44-4dc3-afc4-6270b2bd3f36.jpg)
  
@@ -35,16 +35,24 @@
 
 ## Demo Video
 
-https://youtu.be/cAGcWJTWelc
+
 
 ## 💎 About:
 "86-No-More is a culinary revolution that bids goodbye to the disappointment of unavailable menu items with the cutting-edge inventory tracker. It seamlessly anticipates ingredient shortages, empowering managers with insightful analytics, minimizing waste, and maximizing profits. With 86-No-More embrace innovation, eliminate shortages, and savor the taste of a more lucrative and long-lasting restaurant success!" This app allows you to:
 - Register and Log in to 86-no-more
 - Add and Delete items to the menu
+- Option to choose the item from a list of items
+- Ordering and pay page for customers
 - Add, Update, and Delete items to the inventory
+- option to choose metric data for quantity
 - Send notifications when there is a ingredients shortage or expiration
+- Email alerts when there is a ingredients shortage or expiration
 - Predicts the stock based on the previous usage
 - Visualize your inventory in the form of graphs
+- User feedback page implemented, where in user can give star rating to the products in menu
+- For code quality
+Added prettier in codebase, for automatic code formatting
+Added test cases to increase code coverage.
 
 
 <!--## 📹 Watch this video to know more about our product:
@@ -62,6 +70,15 @@ https://user-images.githubusercontent.com/42051115/135004434-50d95b77-87a3-4c18-
  # :star: Whats New
 
 ### Release Version 2.0.0 - 86-no-more
+- Ordering and pay page for customers
+- Option to choose the item from a list of items
+- Added metric data in inventory
+- Added email alerts
+- User feedback page implemented, where in user can give star rating to the products in menu
+- For code quality
+Added prettier in codebase, for automatic code formatting
+Added test cases to increase code coverage.
+
 
 # :rocket: Installation Guide
  
@@ -92,40 +109,28 @@ npm test -- --coverage
  ## :information_desk_person: Sample Demos
 
 ### Our Home Page
+Display user-specific information about authentication, Login, and search criteria.
+<p align="center"><img width="700" src="./public/images/home.gif"></p>
 
-![Home Page](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img3.jpeg)
+### Order page
+Displays the menu item and the user can able to select the quantity and pay accordingly
+<p align="center"><img width="700" src="./public/images/orders.gif"></p>
 
-### Edit Profile Page
+### Email alert
+When the inventory is running low or there are expired items then the user will get an email alert
+<p align="center"><img width="700" src="./public/images/email.gif"></p>
 
-![Edit Profile Page](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img2.jpeg)
+### Feedback
+To improve the standards, we have implemented User Feedback page where the customers give rating to the products in the menu
+<p align="center"><img width="700" src="./public/images/feedback.gif"></p>
 
-### Display Profile Page
+### Metric Selection
+To make it convenient to understand we have implemented a metric selector
+<p align="center"><img width="700" src="./public/images/metric.gif"></p>
 
-![Display Profile Page](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img7.jpeg)
-
-### Our Add Inventory Page
-
-![Add Inventory Page](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img1.jpeg)
-
-### Predict Functionality
-
-![Predict Functionality](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img4.jpeg)
-
-### If new dishes are available to the users, the employees can add them on the menu by clicking on the "Add new Menu Item" button
-
-![Add New Menu Item](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img5.jpeg)
-
-### When certain ingredients are running low or about to expire, users will be notified
-
-![Notify users](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img6.jpeg)
-
-### The user can also check the inventory that they currently have
-
-![Check Inventory](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img8.jpeg)
-
-### The user can update any existing item using "Update Item Functionality"
-
-![Update Item Function](https://github.com/prathyu99/CSC510_Group12_Project2/blob/main/public/images/img9.jpeg)
+### Ingredients selection
+To make it easier for selection we have implemented a list for Ingredients
+<p align="center"><img width="700" src="./public/images/ingredients.gif"></p>
 
 
 ## Funding:
